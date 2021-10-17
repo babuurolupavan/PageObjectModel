@@ -53,7 +53,7 @@ public class HomePageTest extends TestBase{
 		testutil.switchtoFrame();
 		
 		contactspage=homepage.clickOnContactsLink();
-		
+		System.out.print("");
 	}
 	
 	
